@@ -40,7 +40,7 @@
     "eslint": "^7.12.1",
     "eslint-plugin-nuxt": "^1.0.0",
     "nuxt-ackee": "^2.0.0",
-    "pug": "^3.0.0",
+    "pug": "^3.0.1",
     "pug-plain-loader": "^1.0.0",
     "svgson": "^4.1.0"
   }
